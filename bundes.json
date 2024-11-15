@@ -1,0 +1,632 @@
+[
+    {
+        "rank": 1,
+        "team": "Bayern",
+        "logo": "/assets/clublogo/DFL-CLU-00000G.svg",
+        "club_page": "https://www.bundesliga.com/fr/bundesliga/clubs/fc-bayern-muenchen",
+        "stats": {
+            "Possession (%)": 66,
+            "Cartons": 13,
+            "Cartons jaunes": 13,
+            "Centres effectués lors de phases de jeu ouvertes": 97,
+            "Distance parcourue (km)": 1184.7,
+            "Fautes commises": 84,
+            "Buts": 33,
+            "Courses intenses": 7330,
+            "Buts contre son camp": 0,
+            "Passes réussies dans des phases de jeu ouvert (%)": 91,
+            "Penalties": 3,
+            "Penalties transformés": 3,
+            "Tirs": 183,
+            "Tirs sur les poteaux ou la transversale": 6,
+            "Sprints": 2278,
+            "Duels aériens remportés": 134,
+            "Duels remportés": 946
+        },
+        "focused_stats": {
+            "nbr_matches": 10,
+            "nbr_wins": 8,
+            "nbr_draws": 2,
+            "nbr_losses": 0,
+            "goals": [
+                33,
+                7
+            ]
+        }
+    },
+    {
+        "rank": 2,
+        "team": "Leipzig",
+        "logo": "/assets/clublogo/DFL-CLU-000017.svg",
+        "club_page": "https://www.bundesliga.com/fr/bundesliga/clubs/rb-leipzig",
+        "stats": {
+            "Possession (%)": 53,
+            "Cartons": 21,
+            "Cartons jaunes": 20,
+            "Centres effectués lors de phases de jeu ouvertes": 75,
+            "Distance parcourue (km)": 1142.5,
+            "Fautes commises": 101,
+            "Buts": 15,
+            "Courses intenses": 6775,
+            "Buts contre son camp": 0,
+            "Passes réussies dans des phases de jeu ouvert (%)": 85.5,
+            "Penalties": 1,
+            "Penalties transformés": 0,
+            "Tirs": 116,
+            "Tirs sur les poteaux ou la transversale": 1,
+            "Sprints": 2297,
+            "Duels aériens remportés": 174,
+            "Duels remportés": 1056
+        },
+        "focused_stats": {
+            "nbr_matches": 10,
+            "nbr_wins": 6,
+            "nbr_draws": 3,
+            "nbr_losses": 1,
+            "goals": [
+                15,
+                5
+            ]
+        }
+    },
+    {
+        "rank": 3,
+        "team": "Frankfurt",
+        "logo": "/assets/clublogo/DFL-CLU-00000F.svg",
+        "club_page": "https://www.bundesliga.com/fr/bundesliga/clubs/eintracht-frankfurt",
+        "stats": {
+            "Possession (%)": 44,
+            "Cartons": 14,
+            "Cartons jaunes": 13,
+            "Centres effectués lors de phases de jeu ouvertes": 51,
+            "Distance parcourue (km)": 1161,
+            "Fautes commises": 93,
+            "Buts": 26,
+            "Courses intenses": 6926,
+            "Buts contre son camp": 0,
+            "Passes réussies dans des phases de jeu ouvert (%)": 83.7,
+            "Penalties": 2,
+            "Penalties transformés": 2,
+            "Tirs": 129,
+            "Tirs sur les poteaux ou la transversale": 3,
+            "Sprints": 2260,
+            "Duels aériens remportés": 163,
+            "Duels remportés": 932
+        },
+        "focused_stats": {
+            "nbr_matches": 10,
+            "nbr_wins": 6,
+            "nbr_draws": 2,
+            "nbr_losses": 2,
+            "goals": [
+                26,
+                16
+            ]
+        }
+    },
+    {
+        "rank": 4,
+        "team": "Leverkusen",
+        "logo": "/assets/clublogo/DFL-CLU-00000B.svg",
+        "club_page": "https://www.bundesliga.com/fr/bundesliga/clubs/bayer-04-leverkusen",
+        "stats": {
+            "Possession (%)": 56,
+            "Cartons": 21,
+            "Cartons jaunes": 21,
+            "Centres effectués lors de phases de jeu ouvertes": 122,
+            "Distance parcourue (km)": 1167.4,
+            "Fautes commises": 90,
+            "Buts": 21,
+            "Courses intenses": 7152,
+            "Buts contre son camp": 1,
+            "Passes réussies dans des phases de jeu ouvert (%)": 89,
+            "Penalties": 3,
+            "Penalties transformés": 1,
+            "Tirs": 186,
+            "Tirs sur les poteaux ou la transversale": 8,
+            "Sprints": 2460,
+            "Duels aériens remportés": 151,
+            "Duels remportés": 964
+        },
+        "focused_stats": {
+            "nbr_matches": 10,
+            "nbr_wins": 4,
+            "nbr_draws": 5,
+            "nbr_losses": 1,
+            "goals": [
+                21,
+                16
+            ]
+        }
+    },
+    {
+        "rank": 5,
+        "team": "Freiburg",
+        "logo": "/assets/clublogo/DFL-CLU-00000A.svg",
+        "club_page": "https://www.bundesliga.com/fr/bundesliga/clubs/sc-freiburg",
+        "stats": {
+            "Possession (%)": 52,
+            "Cartons": 11,
+            "Cartons jaunes": 11,
+            "Centres effectués lors de phases de jeu ouvertes": 101,
+            "Distance parcourue (km)": 1202.9,
+            "Fautes commises": 78,
+            "Buts": 13,
+            "Courses intenses": 7336,
+            "Buts contre son camp": 0,
+            "Passes réussies dans des phases de jeu ouvert (%)": 83.1,
+            "Penalties": 3,
+            "Penalties transformés": 0,
+            "Tirs": 136,
+            "Tirs sur les poteaux ou la transversale": 1,
+            "Sprints": 2311,
+            "Duels aériens remportés": 189,
+            "Duels remportés": 905
+        },
+        "focused_stats": {
+            "nbr_matches": 10,
+            "nbr_wins": 5,
+            "nbr_draws": 2,
+            "nbr_losses": 3,
+            "goals": [
+                13,
+                11
+            ]
+        }
+    },
+    {
+        "rank": 6,
+        "team": "Union Berlin",
+        "logo": "/assets/clublogo/DFL-CLU-00000V.svg",
+        "club_page": "https://www.bundesliga.com/fr/bundesliga/clubs/1-fc-union-berlin",
+        "stats": {
+            "Possession (%)": 41,
+            "Cartons": 27,
+            "Cartons jaunes": 27,
+            "Centres effectués lors de phases de jeu ouvertes": 83,
+            "Distance parcourue (km)": 1200.9,
+            "Fautes commises": 129,
+            "Buts": 9,
+            "Courses intenses": 7431,
+            "Buts contre son camp": 0,
+            "Passes réussies dans des phases de jeu ouvert (%)": 78.4,
+            "Penalties": 1,
+            "Penalties transformés": 1,
+            "Tirs": 115,
+            "Tirs sur les poteaux ou la transversale": 3,
+            "Sprints": 2287,
+            "Duels aériens remportés": 216,
+            "Duels remportés": 986
+        },
+        "focused_stats": {
+            "nbr_matches": 10,
+            "nbr_wins": 4,
+            "nbr_draws": 4,
+            "nbr_losses": 2,
+            "goals": [
+                9,
+                8
+            ]
+        }
+    },
+    {
+        "rank": 7,
+        "team": "Dortmund",
+        "logo": "/assets/clublogo/DFL-CLU-000007.svg",
+        "club_page": "https://www.bundesliga.com/fr/bundesliga/clubs/borussia-dortmund",
+        "stats": {
+            "Possession (%)": 60,
+            "Cartons": 26,
+            "Cartons jaunes": 23,
+            "Centres effectués lors de phases de jeu ouvertes": 110,
+            "Distance parcourue (km)": 1143.9,
+            "Fautes commises": 101,
+            "Buts": 18,
+            "Courses intenses": 6989,
+            "Buts contre son camp": 0,
+            "Passes réussies dans des phases de jeu ouvert (%)": 88.9,
+            "Penalties": 3,
+            "Penalties transformés": 3,
+            "Tirs": 133,
+            "Tirs sur les poteaux ou la transversale": 1,
+            "Sprints": 2248,
+            "Duels aériens remportés": 153,
+            "Duels remportés": 834
+        },
+        "focused_stats": {
+            "nbr_matches": 10,
+            "nbr_wins": 5,
+            "nbr_draws": 1,
+            "nbr_losses": 4,
+            "goals": [
+                18,
+                18
+            ]
+        }
+    },
+    {
+        "rank": 8,
+        "team": "Bremen",
+        "logo": "/assets/clublogo/DFL-CLU-00000E.svg",
+        "club_page": "https://www.bundesliga.com/fr/bundesliga/clubs/sv-werder-bremen",
+        "stats": {
+            "Possession (%)": 50,
+            "Cartons": 17,
+            "Cartons jaunes": 15,
+            "Centres effectués lors de phases de jeu ouvertes": 96,
+            "Distance parcourue (km)": 1135,
+            "Fautes commises": 92,
+            "Buts": 17,
+            "Courses intenses": 6840,
+            "Buts contre son camp": 2,
+            "Passes réussies dans des phases de jeu ouvert (%)": 85.1,
+            "Penalties": 1,
+            "Penalties transformés": 1,
+            "Tirs": 118,
+            "Tirs sur les poteaux ou la transversale": 1,
+            "Sprints": 2094,
+            "Duels aériens remportés": 145,
+            "Duels remportés": 817
+        },
+        "focused_stats": {
+            "nbr_matches": 10,
+            "nbr_wins": 4,
+            "nbr_draws": 3,
+            "nbr_losses": 3,
+            "goals": [
+                17,
+                21
+            ]
+        }
+    },
+    {
+        "rank": 9,
+        "team": "M'gladbach",
+        "logo": "/assets/clublogo/DFL-CLU-000004.svg",
+        "club_page": "https://www.bundesliga.com/fr/bundesliga/clubs/borussia-moenchengladbach",
+        "stats": {
+            "Possession (%)": 52,
+            "Cartons": 19,
+            "Cartons jaunes": 19,
+            "Centres effectués lors de phases de jeu ouvertes": 104,
+            "Distance parcourue (km)": 1160.1,
+            "Fautes commises": 119,
+            "Buts": 15,
+            "Courses intenses": 6953,
+            "Buts contre son camp": 1,
+            "Passes réussies dans des phases de jeu ouvert (%)": 84.3,
+            "Penalties": 1,
+            "Penalties transformés": 1,
+            "Tirs": 143,
+            "Tirs sur les poteaux ou la transversale": 5,
+            "Sprints": 2189,
+            "Duels aériens remportés": 207,
+            "Duels remportés": 982
+        },
+        "focused_stats": {
+            "nbr_matches": 10,
+            "nbr_wins": 4,
+            "nbr_draws": 2,
+            "nbr_losses": 4,
+            "goals": [
+                15,
+                14
+            ]
+        }
+    },
+    {
+        "rank": 10,
+        "team": "Mainz",
+        "logo": "/assets/clublogo/DFL-CLU-000006.svg",
+        "club_page": "https://www.bundesliga.com/fr/bundesliga/clubs/1-fsv-mainz-05",
+        "stats": {
+            "Possession (%)": 47,
+            "Cartons": 25,
+            "Cartons jaunes": 23,
+            "Centres effectués lors de phases de jeu ouvertes": 91,
+            "Distance parcourue (km)": 1146.9,
+            "Fautes commises": 128,
+            "Buts": 15,
+            "Courses intenses": 7011,
+            "Buts contre son camp": 0,
+            "Passes réussies dans des phases de jeu ouvert (%)": 80.3,
+            "Penalties": 1,
+            "Penalties transformés": 1,
+            "Tirs": 122,
+            "Tirs sur les poteaux ou la transversale": 1,
+            "Sprints": 2284,
+            "Duels aériens remportés": 233,
+            "Duels remportés": 915
+        },
+        "focused_stats": {
+            "nbr_matches": 10,
+            "nbr_wins": 3,
+            "nbr_draws": 4,
+            "nbr_losses": 3,
+            "goals": [
+                15,
+                14
+            ]
+        }
+    },
+    {
+        "rank": 11,
+        "team": "Stuttgart",
+        "logo": "/assets/clublogo/DFL-CLU-00000D.svg",
+        "club_page": "https://www.bundesliga.com/fr/bundesliga/clubs/vfb-stuttgart",
+        "stats": {
+            "Possession (%)": 56,
+            "Cartons": 20,
+            "Cartons jaunes": 19,
+            "Centres effectués lors de phases de jeu ouvertes": 107,
+            "Distance parcourue (km)": 1131.8,
+            "Fautes commises": 94,
+            "Buts": 19,
+            "Courses intenses": 6832,
+            "Buts contre son camp": 0,
+            "Passes réussies dans des phases de jeu ouvert (%)": 86.5,
+            "Penalties": 3,
+            "Penalties transformés": 0,
+            "Tirs": 148,
+            "Tirs sur les poteaux ou la transversale": 5,
+            "Sprints": 2231,
+            "Duels aériens remportés": 133,
+            "Duels remportés": 958
+        },
+        "focused_stats": {
+            "nbr_matches": 10,
+            "nbr_wins": 3,
+            "nbr_draws": 4,
+            "nbr_losses": 3,
+            "goals": [
+                19,
+                19
+            ]
+        }
+    },
+    {
+        "rank": 12,
+        "team": "Wolfsburg",
+        "logo": "/assets/clublogo/DFL-CLU-000003.svg",
+        "club_page": "https://www.bundesliga.com/fr/bundesliga/clubs/vfl-wolfsburg",
+        "stats": {
+            "Possession (%)": 45,
+            "Cartons": 35,
+            "Cartons jaunes": 33,
+            "Centres effectués lors de phases de jeu ouvertes": 63,
+            "Distance parcourue (km)": 1111.9,
+            "Fautes commises": 130,
+            "Buts": 19,
+            "Courses intenses": 6989,
+            "Buts contre son camp": 1,
+            "Passes réussies dans des phases de jeu ouvert (%)": 77.7,
+            "Penalties": 2,
+            "Penalties transformés": 1,
+            "Tirs": 122,
+            "Tirs sur les poteaux ou la transversale": 4,
+            "Sprints": 2303,
+            "Duels aériens remportés": 195,
+            "Duels remportés": 901
+        },
+        "focused_stats": {
+            "nbr_matches": 10,
+            "nbr_wins": 3,
+            "nbr_draws": 3,
+            "nbr_losses": 4,
+            "goals": [
+                19,
+                18
+            ]
+        }
+    },
+    {
+        "rank": 13,
+        "team": "Augsburg",
+        "logo": "/assets/clublogo/DFL-CLU-000010.svg",
+        "club_page": "https://www.bundesliga.com/fr/bundesliga/clubs/fc-augsburg",
+        "stats": {
+            "Possession (%)": 44,
+            "Cartons": 28,
+            "Cartons jaunes": 27,
+            "Centres effectués lors de phases de jeu ouvertes": 114,
+            "Distance parcourue (km)": 1143.1,
+            "Fautes commises": 108,
+            "Buts": 13,
+            "Courses intenses": 6547,
+            "Buts contre son camp": 0,
+            "Passes réussies dans des phases de jeu ouvert (%)": 81.3,
+            "Penalties": 1,
+            "Penalties transformés": 0,
+            "Tirs": 135,
+            "Tirs sur les poteaux ou la transversale": 2,
+            "Sprints": 2011,
+            "Duels aériens remportés": 207,
+            "Duels remportés": 949
+        },
+        "focused_stats": {
+            "nbr_matches": 10,
+            "nbr_wins": 3,
+            "nbr_draws": 3,
+            "nbr_losses": 4,
+            "goals": [
+                13,
+                20
+            ]
+        }
+    },
+    {
+        "rank": 14,
+        "team": "Heidenheim",
+        "logo": "/assets/clublogo/DFL-CLU-000018.svg",
+        "club_page": "https://www.bundesliga.com/fr/bundesliga/clubs/1-fc-heidenheim-1846",
+        "stats": {
+            "Possession (%)": 46,
+            "Cartons": 24,
+            "Cartons jaunes": 23,
+            "Centres effectués lors de phases de jeu ouvertes": 88,
+            "Distance parcourue (km)": 1161.1,
+            "Fautes commises": 115,
+            "Buts": 13,
+            "Courses intenses": 7094,
+            "Buts contre son camp": 0,
+            "Passes réussies dans des phases de jeu ouvert (%)": 78,
+            "Penalties": 3,
+            "Penalties transformés": 3,
+            "Tirs": 136,
+            "Tirs sur les poteaux ou la transversale": 3,
+            "Sprints": 2280,
+            "Duels aériens remportés": 215,
+            "Duels remportés": 1003
+        },
+        "focused_stats": {
+            "nbr_matches": 10,
+            "nbr_wins": 3,
+            "nbr_draws": 1,
+            "nbr_losses": 6,
+            "goals": [
+                13,
+                15
+            ]
+        }
+    },
+    {
+        "rank": 15,
+        "team": "Hoffenheim",
+        "logo": "/assets/clublogo/DFL-CLU-000002.svg",
+        "club_page": "https://www.bundesliga.com/fr/bundesliga/clubs/tsg-hoffenheim",
+        "stats": {
+            "Possession (%)": 49,
+            "Cartons": 24,
+            "Cartons jaunes": 23,
+            "Centres effectués lors de phases de jeu ouvertes": 121,
+            "Distance parcourue (km)": 1159.3,
+            "Fautes commises": 105,
+            "Buts": 13,
+            "Courses intenses": 6577,
+            "Buts contre son camp": 0,
+            "Passes réussies dans des phases de jeu ouvert (%)": 82.9,
+            "Penalties": 1,
+            "Penalties transformés": 1,
+            "Tirs": 116,
+            "Tirs sur les poteaux ou la transversale": 1,
+            "Sprints": 1985,
+            "Duels aériens remportés": 182,
+            "Duels remportés": 921
+        },
+        "focused_stats": {
+            "nbr_matches": 10,
+            "nbr_wins": 2,
+            "nbr_draws": 3,
+            "nbr_losses": 5,
+            "goals": [
+                13,
+                19
+            ]
+        }
+    },
+    {
+        "rank": 16,
+        "team": "St. Pauli",
+        "logo": "/assets/clublogo/DFL-CLU-00000H.svg",
+        "club_page": "https://www.bundesliga.com/fr/bundesliga/clubs/fc-st-pauli",
+        "stats": {
+            "Possession (%)": 43,
+            "Cartons": 15,
+            "Cartons jaunes": 15,
+            "Centres effectués lors de phases de jeu ouvertes": 79,
+            "Distance parcourue (km)": 1213.7,
+            "Fautes commises": 99,
+            "Buts": 7,
+            "Courses intenses": 7326,
+            "Buts contre son camp": 0,
+            "Passes réussies dans des phases de jeu ouvert (%)": 78.8,
+            "Penalties": 0,
+            "Penalties transformés": 0,
+            "Tirs": 107,
+            "Tirs sur les poteaux ou la transversale": 3,
+            "Sprints": 2056,
+            "Duels aériens remportés": 177,
+            "Duels remportés": 832
+        },
+        "focused_stats": {
+            "nbr_matches": 10,
+            "nbr_wins": 2,
+            "nbr_draws": 2,
+            "nbr_losses": 6,
+            "goals": [
+                7,
+                12
+            ]
+        }
+    },
+    {
+        "rank": 17,
+        "team": "Kiel",
+        "logo": "/assets/clublogo/DFL-CLU-000N5P.svg",
+        "club_page": "https://www.bundesliga.com/fr/bundesliga/clubs/holstein-kiel",
+        "stats": {
+            "Possession (%)": 44,
+            "Cartons": 23,
+            "Cartons jaunes": 21,
+            "Centres effectués lors de phases de jeu ouvertes": 78,
+            "Distance parcourue (km)": 1183.4,
+            "Fautes commises": 130,
+            "Buts": 12,
+            "Courses intenses": 7442,
+            "Buts contre son camp": 1,
+            "Passes réussies dans des phases de jeu ouvert (%)": 79.4,
+            "Penalties": 2,
+            "Penalties transformés": 2,
+            "Tirs": 107,
+            "Tirs sur les poteaux ou la transversale": 3,
+            "Sprints": 2399,
+            "Duels aériens remportés": 216,
+            "Duels remportés": 960
+        },
+        "focused_stats": {
+            "nbr_matches": 10,
+            "nbr_wins": 1,
+            "nbr_draws": 2,
+            "nbr_losses": 7,
+            "goals": [
+                12,
+                25
+            ]
+        }
+    },
+    {
+        "rank": 18,
+        "team": "Bochum",
+        "logo": "/assets/clublogo/DFL-CLU-00000S.svg",
+        "club_page": "https://www.bundesliga.com/fr/bundesliga/clubs/vfl-bochum-1848",
+        "stats": {
+            "Possession (%)": 41,
+            "Cartons": 16,
+            "Cartons jaunes": 16,
+            "Centres effectués lors de phases de jeu ouvertes": 80,
+            "Distance parcourue (km)": 1127.5,
+            "Fautes commises": 131,
+            "Buts": 10,
+            "Courses intenses": 6963,
+            "Buts contre son camp": 0,
+            "Passes réussies dans des phases de jeu ouvert (%)": 76.8,
+            "Penalties": 1,
+            "Penalties transformés": 0,
+            "Tirs": 124,
+            "Tirs sur les poteaux ou la transversale": 1,
+            "Sprints": 2271,
+            "Duels aériens remportés": 208,
+            "Duels remportés": 867
+        },
+        "focused_stats": {
+            "nbr_matches": 10,
+            "nbr_wins": 0,
+            "nbr_draws": 2,
+            "nbr_losses": 8,
+            "goals": [
+                10,
+                30
+            ]
+        }
+    }
+]

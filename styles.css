@@ -1,0 +1,87 @@
+* {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrFJA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7V1s.ttf) format('truetype');
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+}
+table {
+  border-collapse: collapse;
+  background-color: white;
+}
+table td,
+table th {
+  padding: 2px 5px;
+  border-right: 1px solid white;
+}
+table td:last-child,
+table th:last-child {
+  border-right: none;
+}
+table h1 {
+  font-size: 20px!important;
+  margin: 0;
+}
+table thead tr {
+  text-align: center;
+  text-transform: uppercase;
+}
+table thead tr th {
+  font-size: 14px;
+  background-color: #ffcfcf;
+}
+table thead tr th.general,
+table thead tr th.bymatch {
+  background-color: #ff9898;
+}
+table tbody tr td {
+  text-align: center;
+  vertical-align: middle;
+  font-size: 16px;
+}
+table tbody tr td:nth-child(2) {
+  display: flex;
+  align-items: center;
+}
+table tbody tr:nth-child(odd) {
+  background-color: #ff9898;
+}
+table tbody tr:nth-child(even) {
+  background-color: #ffcfcf;
+}
+.logo_club {
+  width: 20px;
+}
+.download {
+  text-align: center;
+  padding: 5px 10px;
+  margin: 10px auto;
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.download:hover {
+  background-color: #0069d9;
+}
